@@ -1,8 +1,9 @@
 {
   "name": "purescript-base64",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "moduleType": [
-    "es6"
+    "es6",
+    "node"
   ],
   "ignore": [
     "**/.*",
@@ -10,9 +11,13 @@
     "bower_components",
     "output"
   ],
-  "dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Thimoteus/purescript-base64.git"
   },
+  "dependencies": {},
   "devDependencies": {
-    "purescript-console": "^0.1.0"
+    "purescript-console": "^0.1.0",
+    "purescript-quickcheck": "~0.12.2"
   }
 }
