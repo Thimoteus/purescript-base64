@@ -3,7 +3,7 @@ sudo: false
 node_js:
   - stable
 install:
-  - npm install purescript pulp -g
+  - npm install purescript pulp bower -g
   - pulp dep update
 script:
   - pulp build && pulp test
