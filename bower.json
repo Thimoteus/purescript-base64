@@ -1,6 +1,6 @@
 {
   "name": "purescript-base64",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "moduleType": [
     "es6",
     "node"
