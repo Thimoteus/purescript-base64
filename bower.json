@@ -17,7 +17,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "purescript-console": "^0.1.0",
-    "purescript-quickcheck": "~0.12.2"
+    "purescript-psci-support": "^1.0.0",
+    "purescript-console": "^1.0.0",
+    "purescript-quickcheck": "^1.0.0"
   }
 }
