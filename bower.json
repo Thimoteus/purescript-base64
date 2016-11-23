@@ -1,6 +1,6 @@
 {
-  "name": "purescript-base64",
-  "version": "2.1.0",
+  "name": "purescript-radix64",
+  "version": "3.0.0",
   "moduleType": [
     "es6",
     "node"
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Thimoteus/purescript-base64.git"
+    "url": "git@github.com:PipocaQuemada/purescript-radix64.git"
   },
   "dependencies": {},
   "devDependencies": {
