@@ -12,7 +12,7 @@ may cause [unexpected behavior](https://github.com/Thimoteus/purescript-base64/i
 
 ## Installation
 ```
-bower install purescript-base64
+bower install purescript-radix64
 ```
 
 ## Module Documentation
